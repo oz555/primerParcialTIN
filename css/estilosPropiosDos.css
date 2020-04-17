@@ -1,0 +1,129 @@
+body{
+	font-family: sans-serif;
+}
+#portada,#contra{
+	text-align: center;
+	background-color: #3c5c6a;
+	padding: 20px;
+	height: 560px;
+}
+#pagina1{
+
+	background-color: #C64725;
+	color: white;
+	text-align: justify;
+	height: 540px;
+}
+#pagina2{
+	background-color:#a8cfe0;
+	color: white;
+	text-align: justify;
+	height: 540px;
+}
+#pagina3{
+	background-color:#C18D1D;
+	color: white;
+	text-align: justify;
+	height: 540px;
+}
+#pagina4{
+	background-color:#23CA18;
+	color: white;
+	text-align: justify;
+	height: 540px;
+}
+#pagina5{
+	background-color:#18CAAF;
+	color: white;
+	text-align: justify;
+	height: 540px;
+}
+#pagina6{
+	background-color:#3563D6;
+	color: white;
+	text-align: justify;
+	height: 540px;
+}
+#pagina7{
+	background-color:#7D51E2;
+	color: white;
+	text-align: justify;
+	height: 540px;
+}
+#pagina8{
+	background-color:#C151E2;
+	color: white;
+	text-align: justify;
+	height: 540px;
+}
+#pagina9{
+	background-color:#E25172;
+	color: white;
+	text-align: justify;
+	height: 540px;
+}
+#pagina10{
+	background-color:#C18D1D;
+	color: white;
+	text-align: justify;
+	height: 540px;
+}
+
+#pagina1 h3 {
+	text-align: left;
+	color: white;
+}
+#pagina2 h3 {
+	text-align: left;
+	color: white;
+}
+#pagina3 h3 {
+	text-align: left;
+	color: white;
+}
+#pagina4 h3 {
+	text-align: left;
+	color: white;
+}
+#pagina5 h3 {
+	text-align: left;
+	color: white;
+}
+#pagina6 h3 {
+	text-align: left;
+	color: white;
+}
+#pagina7 h3 {
+	text-align: left;
+	color: white;
+}
+#pagina8 h3 {
+	text-align: left;
+	color: white;
+}
+#pagina9 h3 {
+	text-align: left;
+	color: white;
+}
+
+.pagina {
+	padding: 30px;
+	height: 540px;
+}
+
+.b-wrap .b-counter{
+	background-color: #3c5c6a;
+	/*margin-left: 40%;
+	margin-right: 40%;*/
+	color: #fff;
+}
+#wrapper{
+	padding-top: 5%;
+}
+#gotopage{
+	text-align: center;
+}
+#in_go{
+	width: 10%;
+	margin-right: 10px;
+}
